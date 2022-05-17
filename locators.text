@@ -1,0 +1,5 @@
+IRCTC LOGIN WEBELEMENT LOCATORS
+Userid://input[@formcontrolname='userid']
+Password://input[@formcontrolname='password']
+Captha://div[@id="nlpImgContainer"]//div//following::img[2]
+

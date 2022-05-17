@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-17T14:37:18 IST" name="Suite" finished-at="2022-05-17T14:37:59 IST" duration-ms="40794">
+    <groups>
+    </groups>
+    <test started-at="2022-05-17T14:37:18 IST" name="Test" finished-at="2022-05-17T14:37:59 IST" duration-ms="40794">
+      <class name="demoIrctc.twoTest">
+        <test-method signature="testTwo()[pri:0, instance:demoIrctc.twoTest@6379eb]" started-at="2022-05-17T14:37:18 IST" name="testTwo" finished-at="2022-05-17T14:37:18 IST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+      </class> <!-- demoIrctc.twoTest -->
+      <class name="demoIrctc.LoginTest">
+        <test-method signature="login()[pri:0, instance:demoIrctc.LoginTest@6d763516]" started-at="2022-05-17T14:37:18 IST" name="login" finished-at="2022-05-17T14:37:59 IST" duration-ms="40528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- demoIrctc.LoginTest -->
+      <class name="demoIrctc.oneTest">
+        <test-method signature="onetest()[pri:0, instance:demoIrctc.oneTest@2a798d51]" started-at="2022-05-17T14:37:18 IST" name="onetest" finished-at="2022-05-17T14:37:18 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onetest -->
+      </class> <!-- demoIrctc.oneTest -->
+      <class name="demoIrctc.threeTest">
+        <test-method signature="TestThree()[pri:0, instance:demoIrctc.threeTest@6b81ce95]" started-at="2022-05-17T14:37:18 IST" name="TestThree" finished-at="2022-05-17T14:37:18 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestThree -->
+      </class> <!-- demoIrctc.threeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
